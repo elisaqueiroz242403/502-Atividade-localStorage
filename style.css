@@ -1,0 +1,21 @@
+body{
+    margin-top: 19%;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    margin-top: 22px;
+    border: none;
+    border-radius: 15%;
+}
+
+.marque{
+    width: 15%;
+    height: 20%;
+    font-size: 200%;
+    color: rgb(226, 14, 156);
+}
